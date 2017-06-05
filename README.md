@@ -6,6 +6,7 @@ TODO:
 1. 搭建 owncloud 流程（ubuntu）
 2. 内网穿透
 3. 公网ip变化，自动更新dns配置
+4. 为owncloud启用https
 
 网上第三方代码
 

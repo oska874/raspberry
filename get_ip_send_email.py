@@ -17,11 +17,11 @@ import urllib2
 
 # the e-mail config
 # this is just a simple format,this e-mail doesn't exist.
-smtpserver = "smtp.sina.com"
-username = "testxil1@sina.com"
-password = "123456a"
-sender = "testxil1@sina.com"
-receiver = ["testxil1@sina.com"]
+smtpserver = "xxx"
+username = "xxx"
+password = "xxx"
+sender = "xxx"
+receiver = ["xxx"]
 subject = "[RPI]IP CHANGED"
 
 # file_path config

@@ -1,7 +1,14 @@
 # raspberry
+
 在树莓派上做的一些小贡献
 
+TODO:
+1. 搭建 owncloud 流程（ubuntu）
+2. 内网穿透
+3. 公网ip变化，自动更新dns配置
 
 网上第三方代码
+
 get_ip_send_email.py
+
 get_ip_update_ddnspo.py
